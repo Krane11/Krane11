@@ -6,7 +6,7 @@
  I’m learning **C++, Reverse Engineering**
 
 
- How to reach me **Krane#4181 or kkkrane** <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
+ How to reach me **Krane#4181 or kkkrane** <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
 
 </div>
 <h3 align="left">Languages and Tools:</h3>

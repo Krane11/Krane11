@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/spin-chair-spin-spinning-chair-foldable-chair-gif-27635879" />
+  <img src="https://media.discordapp.net/attachments/1132853125716394065/1133288646590595132/image0.gif" />
 </div>
 <img src="https://komarev.com/ghpvc/?username=Krane11&style=flat-square&color=blue" alt=""/>
 

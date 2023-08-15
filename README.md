@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ### :fire: Stats :
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Krane11&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats&style=flat-square&color=blue" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krane11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Krane11/Krane11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

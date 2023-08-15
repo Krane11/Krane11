@@ -2,7 +2,11 @@
   <img src="https://media.discordapp.net/attachments/1132853125716394065/1133288646590595132/image0.gif" width="100"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Krane11&style=flat-square&color=blue" alt=""/>
-### Hi there 👋
+
+ I’m learning **C++, Reverse Engineering**
+
+
+ How to reach me **Krane#4181 or kkkrane**<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
 
 </div>
 <h3 align="left">Languages and Tools:</h3>

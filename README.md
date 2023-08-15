@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ### :fire: Stats :
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krane11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=Krane11)](https://github.com/anuraghazra/github-readme-stats"/>
 
 <!--
 **Krane11/Krane11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

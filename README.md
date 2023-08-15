@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/1132853125716394065/1133288646590595132/image0.gif" />
+  <img src="https://media.discordapp.net/attachments/1132853125716394065/1133288646590595132/image0.gif" width="100"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Krane11&style=flat-square&color=blue" alt=""/>
 
@@ -14,8 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" 
-<img align="center" alt="Krane11" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
 

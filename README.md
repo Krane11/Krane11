@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/peashooter-funny-laughing-laugh-pvz-gif-27007773" width="100"/>
+  <img src="https://tenor.com/view/peashooter-funny-laughing-laugh-pvz-gif-27007773" />
 </div>
 <img src="https://komarev.com/ghpvc/?username=Krane11&style=flat-square&color=blue" alt=""/>
 

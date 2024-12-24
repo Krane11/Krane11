@@ -3,7 +3,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Krane11&style=flat-square&color=blue" alt=""/>
 
- I’m learning **C++, and Reverse Engineering**
+**C++, and Reverse Engineering**
 
 
  **@Krane11** on discord <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
